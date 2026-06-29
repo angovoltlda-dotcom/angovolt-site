@@ -66,7 +66,7 @@ A ANGO⚡VOLT, Lda é uma empresa angolana especializada em soluções elétrica
 </div>
 </section><section>
 <h2>Nossos Serviços</h2><div class="card">Instalações Elétricas Residenciais</div><div class="card">Instalações Elétricas Prediais</div><div class="card">Instalações Elétricas Industriais</div><div class="card">Automação Industrial</div><div class="card">Construção e Manutenção de PTs</div><div class="card">Manutenção Preventiva e Corretiva de Celas Elétricas</div><div class="card">Manutenção de Armários e Quadros Elétricos</div><div class="card">Construção e Manutenção de Linhas MT e BT</div><div class="card">Plantação de Postes de Betão</div><div class="card">Instalação de Redes Elétricas</div><div class="card">Instalação, Manutenção e Reparação de Geradores Industriais</div><div class="card">Energia Solar e Sistemas Fotovoltaicos</div><div class="card">Plantação de Colunas Metálicas para Iluminação Pública e Privada</div><div class="card">Manutenção e Reparação de Colunas Metálicas de Iluminação Pública e Privada</div><div class="card">Instalação de Luminárias e Projetores LED</div><div class="card">Projetos Elétricos e Consultoria Técnica</div></section><section>
-<h2>Porquê Escolher a ANGO⚡VOLT?</h2><div class="card">✔ Equipa Técnica Especializada</div>
+<h2>Porquê Escolher a ANGO⚡VOLT, Lda?</h2><div class="card">✔ Equipa Técnica Especializada</div>
 <div class="card">✔ Cobertura Nacional</div>
 <div class="card">✔ Atendimento Rápido</div>
 <div class="card">✔ Segurança e Qualidade</div>
