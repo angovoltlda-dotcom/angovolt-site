@@ -88,7 +88,7 @@ Entrada da Suave Fenícia Mega Store Imbondeiro
 
 <br><br>
 
-✉ angovot@gmail.com
+✉ angovoltlda@gmail.com
 
 <br><br>
 
